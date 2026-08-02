@@ -10,7 +10,7 @@
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,java,springboot,aws,python,numpy,pandas,vscode," />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,java,aws,python,vscode," />
 </p>
 
 ---
