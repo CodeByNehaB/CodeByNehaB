@@ -119,12 +119,4 @@ Open to opportunities in UX/UI design, data analytics, and technical training.
 
 </div>
 
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_threshold: 0%
-
-          config_timezone: Asia/Kolkata
-
+         
