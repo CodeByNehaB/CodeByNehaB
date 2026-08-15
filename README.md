@@ -87,21 +87,42 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByNehaB&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CodeByNehaB&theme=algolia&no-frame=true&no-bg=true&column=6"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeByNehaB&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNehaB&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/CodeByNehaB">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=CodeByNehaB&show_icons=true&theme=algolia&hide_border=true"
+      alt="Neha's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/CodeByNehaB">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNehaB&layout=compact&theme=algolia&hide_border=true&langs_count=8"
+      alt="Neha's Top Languages"
+    />
+  </a>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=CodeByNehaB&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=CodeByNehaB&theme=algolia&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ### 📫 Let's Connect
 
