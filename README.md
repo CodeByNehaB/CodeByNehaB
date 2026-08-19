@@ -106,7 +106,7 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
   </a>
   <a href="https://github.com/CodeByNehaB">
     <img
-      height="180"
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNehaB&layout=compact&theme=algolia&hide_border=true&langs_count=8"
       alt="Neha's Top Languages"
     />
