@@ -53,6 +53,9 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
   <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
@@ -94,6 +97,16 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
   />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByNehaB&theme=algolia&hide_border=true"
+    alt="Neha's GitHub Streak"
+    width="100%"
+  />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -113,29 +126,7 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
   </a>
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=CodeByNehaB&theme=algolia&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 
-### 📫 Let's Connect
 
-Open to opportunities in UX/UI design, data analytics, and technical training.
 
-<a href="https://linkedin.com/in/nehabawankar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nehabawankar88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/CodeByNehaB" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
-
-</div>
-
-         
