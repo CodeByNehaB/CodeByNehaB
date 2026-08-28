@@ -101,7 +101,7 @@ IT trainer and UX/UI designer who turns complex design tools and workflows into 
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByNehaB&theme=algolia&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=CodeByNehaB&theme=algolia&hide_border=true"
     alt="Neha's GitHub Streak"
     width="100%"
   />
