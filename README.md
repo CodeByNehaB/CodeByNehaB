@@ -133,12 +133,12 @@ Relevant coursework includes:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByNehaB&theme=algolia&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CodeByNehaB&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
 ---
 
 ## 🔥 GitHub Streak
@@ -153,17 +153,19 @@ Relevant coursework includes:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CodeByNehaB&show_icons=true&theme=algolia&hide_border=true"
+    alt="Neha's GitHub Stats"
+  />
+</p>
 
-<a href="https://github.com/CodeByNehaB">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CodeByNehaB&show_icons=true&theme=algolia&hide_border=true" alt="Neha's GitHub Stats" />
-</a>
-
-<a href="https://github.com/CodeByNehaB">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNehaB&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Neha's Top Languages" />
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNehaB&layout=compact&theme=algolia&hide_border=true&langs_count=8"
+    alt="Neha's Top Languages"
+  />
+</p>
 
 ---
 
