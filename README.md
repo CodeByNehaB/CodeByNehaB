@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Designing+intuitive+digital+experiences;Backing+design+decisions+with+real+data;Teaching+the+next+generation+of+developers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Designing+intuitive+digital+experiences;Backing+design+decisions+with+real+data" alt="Typing SVG" />
 
 <br><br>
 
